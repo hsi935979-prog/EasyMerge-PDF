@@ -1,4 +1,4 @@
-# [FastPDF Merge]
+# [fastpdf merge]
 
 **여러 PDF 파일을 별도의 프로그램 설치 없이 웹 브라우저에서 빠르고 안전하게 병합하세요.**
 
